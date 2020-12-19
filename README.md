@@ -1,7 +1,7 @@
-# -modified-Ftb-Revelation
-Ftb Revelation with some mods removed.
+# Quaz_modpack
 
-Direct Download link is in the wiki.
+
+install guides comming soon
 
 
 this project is a free flowing modpack where mods will come and go overtime
